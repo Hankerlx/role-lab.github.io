@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rolelab-website.github.io/sitemap.xml
+Sitemap: https://role-lab.github.io/sitemap.xml
